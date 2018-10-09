@@ -1,0 +1,13 @@
+main:
+  - title: "What is Zowe?"
+    url: https://zowe.org/home/
+  - title: "Download"
+    url: https://zowe.org/download/
+  - title: "Contribute"
+    url: https://zowe.org/contribute/
+  - title: "Documentation"
+    url: https://zowe.github.io/docs-site/
+  - title: "Blog"
+    url: https://zowe.github.io/blog/
+  - title: "Governace"
+    url: https://zowe.org/about-us/

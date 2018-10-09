@@ -1,0 +1,11 @@
+---
+---
+
+$doc-font-size      : 16;
+
+$sans-serif         : Roboto, Georgia, Times, serif;
+
+$global-font-family: $sans-serif;
+$header-font-family: $sans-serif;
+
+@import "{{ site.theme }}";
